@@ -5,7 +5,7 @@ import {Prodact} from './pages/prodact'
 import './App.css';
 function App() {
   return (
-    <div className="App">
+    <div className="App container">
       <Header user="ilia"/>
       <Prodact/>
 
